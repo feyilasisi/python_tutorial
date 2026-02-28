@@ -1,3 +1,6 @@
+This explains this function on confluence doc:
+https://primuslearningcameroon.atlassian.net/wiki/spaces/~60bdd5f98f2cc100695558c4/pages/213712916/Python+Functions+Classes+and+Exceptions
+
 # 📦 What This Script Does
 
 This script uploads a file (e.g., `loops.py`) from your local computer to an **Amazon S3 bucket** using the AWS SDK for Python (`boto3`).
